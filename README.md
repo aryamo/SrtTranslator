@@ -3,13 +3,13 @@ Simple tool for automatically translating "srt" subtitles for your movies using 
 
 This is a command line tool written in <strong>Python 3</strong> to translate your subtitles for your series or movies.
 
-# Microsoft API 
+###  Microsoft API 
 Before using this script, you need to have a Azure account and create a TextTranslation of cognitiveservices.
 Then you will get a subscription key with a specific location (Region).
 
 please use them fill in <b>Translator.py</b>.
 
-##### Dependencies
+### Dependencies
 This tool uses os, sys, requests, uuid and json , so you will need to install it in order to run the tool.
 
 <strong>Installing goslate is really easy, just run this:</strong>

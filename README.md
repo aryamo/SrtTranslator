@@ -79,6 +79,17 @@ Some even know their customers better
 ...
 
 ```
+### Known Issue
+When some character in the files such as =, <, <. it will be caused an error.
+```
+145
+00:17:24,006 --> 00:17:26,009
+That's going to be Option > Function.
+
+146
+00:17:26,009 --> 00:17:32,000
+=NOW, open close parens, and hit Enter.
+```
 
 ### Available Languages
 Checkout <a href="https://docs.microsoft.com/zh-cn/azure/cognitive-services/Translator/language-support#translation">here</a> for more information.

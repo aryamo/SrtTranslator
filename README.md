@@ -3,6 +3,12 @@ Simple tool for automatically translating "srt" subtitles for your movies using 
 
 This is a command line tool written in <strong>Python 3</strong> to translate your subtitles for your series or movies.
 
+# Microsoft API 
+Before using this script, you need to have a Azure account and create a TextTranslation of cognitiveservices.
+Then you will get a subscription key with a specific location (Region).
+
+please use them fill in <b>Translator.py</b>.
+
 ##### Dependencies
 This tool uses os, sys, requests, uuid and json , so you will need to install it in order to run the tool.
 
@@ -36,6 +42,44 @@ python main2.py "C:\Users\zhangwx\Desktop\test\806161_03_01 - AKS storage overvi
 ```
 <strong>Note:</strong> Make sure your srt subtitle files have an UTF8 encoding, else you will have errors.
 Checkout <a href="http://redhotwords.com/unicode.html">here</a> to how to set the encoding in case you have a different encoding than UTF8
+
+part of tranlated result：
+```
+1
+00:00:03,005 --> 00:00:05,008
+- 看的人
+你的事业，他们说
+- People who look at
+your career and they say
+
+2
+00:00:05,008 --> 00:00:07,003
+你知道我想成为马克
+ya know I want to be Marc.
+...
+5
+00:00:11,003 --> 00:00:13,001
+最好的营销人员和销售人员
+The best marketers and salespeople
+
+6
+00:00:13,001 --> 00:00:15,000
+了解他们的客户，他们是谁，
+know their customers, who they are,
+
+7
+00:00:15,000 --> 00:00:16,004
+以及他们如何购买。
+and how they buy.
+
+8
+00:00:16,004 --> 00:00:17,009
+有些人甚至更了解他们的客户
+Some even know their customers better
+...
+
+```
+
 ### Available Languages
 Checkout <a href="https://docs.microsoft.com/zh-cn/azure/cognitive-services/Translator/language-support#translation">here</a> for more information.
 

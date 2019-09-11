@@ -14,7 +14,7 @@ This tool uses os, sys, requests, uuid and json , so you will need to install it
 
 <strong>Installing packages is really easy, just run this:</strong>
 ```
-pip install requests, uuid, json, os
+pip install requests
 ```
 ### Running the tool
 Just open your terminal and type:

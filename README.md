@@ -7,7 +7,7 @@ This is a command line tool written in <strong>Python 3</strong> to translate yo
 Before using this script, you need to have a Azure account and create a TextTranslation of cognitiveservices.
 Then you will get a subscription key with a specific location (Region).
 
-please use them fill in <b>Translator.py</b>.
+please fill them in <b>Translator.py</b>.
 
 ### Dependencies
 This tool uses os, sys, requests, uuid and json , so you will need to install it in order to run the tool.

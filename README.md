@@ -34,36 +34,10 @@ This for single srt file.
 ```
 python main2.py "C:\Users\zhangwx\Desktop\test\806161_03_01 - AKS storage overview.en.srt"
 ```
-
 <strong>Note:</strong> Make sure your srt subtitle files have an UTF8 encoding, else you will have errors.
 Checkout <a href="http://redhotwords.com/unicode.html">here</a> to how to set the encoding in case you have a different encoding than UTF8
 ### Available Languages
 Checkout <a href="https://docs.microsoft.com/zh-cn/azure/cognitive-services/Translator/language-support#translation">here</a> for more information.
-|  |  | | |
-|:---------------------------|:-------------------------|:---------------------------|:-----------------|
-|pt   : Portuguese           |de   : German           |kn   : Kannada             |be   : Belarusian|  
-|hi   : Hindi                |iw   : Hebrew           |ny   : Chichewa            |lo   : Lao       |   
-|mk   : Macedonian           |ta   : Tamil            |tr   : Turkish             |pl   : Polish    |
-|hr   : Croatian             |zu   : Zulu             |ga   : Irish               |pa   : Punjabi   |
-|ca   : Catalan              |te   : Telugu           |mr   : Marathi             |es   : Spanish   |
-|ur   : Urdu                 |uk   : Ukrainian        |ka   : Georgian            |km   : Khmer     |
-|no   : Norwegian            |tg   : Tajik            |my   : Myanmar (Burmese)   |ar   : Arabic    |
-|ig   : Igbo                 |ml   : Malayalam        |it   : Italian             |mt   : Maltese   |
-|gu   : Gujarati             |sv   : Swedish          |so   : Somali              |bg   : Bulgarian |
-|az   : Azerbaijani          |ko   : Korean           |gl   : Galician            |fil  : Filipino  |
-|kk   : Kazakh               |sk   : Slovak           |ne   : Nepali              |la   : Latin     |
-|fi   : Finnish              |vi   : Vietnamese       |sw   : Swahili             |nl   : Dutch     |
-|af   : Afrikaans            |id   : Indonesian       |cs   : Czech               |ha   : Hausa     |
-|fr   : French               |si   : Sinhala          |su   : Sundanese           |hy   : Armenian  |
-|ja   : Japanese             |lt   : Lithuanian       |ht   : Haitian Creole      |lv   : Latvian   |
-|fa   : Persian              |en   : English          |sr   : Serbian             |mg   : Malagasy  |
-|zh   : Chinese              |bn   : Bengali          |th   : Thai                |el   : Greek     |
-|eo   : Esperanto            |st   : Sesotho          |mn   : Mongolian           |yi   : Yiddish   |
-|da   : Danish               |ms   : Malay            |ru   : Russian             |cy   : Welsh     |
-|sl   : Slovenian            |mi   : Maori            |yo   : Yoruba              |ro   : Romanian  |
-|bs   : Bosnian              |sq   : Albanian         |zh-Hans: Chinese (Simplified)|jw   : Javanese  |
-|et   : Estonian             |eu   : Basque           |is   : Icelandic           |mww  : Hmong     |
-|zh-Hant: Chinese (Traditional)|ceb  : Cebuano          |uz   : Uzbek               |hu   : Hungarian |
 
 ### Compatibility
 As mentioned above, in order to run this script you need to run the tool with <strong>Python 3.x</strong>

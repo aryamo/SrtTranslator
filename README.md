@@ -1,7 +1,7 @@
 # SrtTranslator
 Simple tool for automatically translating "srt" subtitles for your movies using the Microsoft translate API service.
 
-This is a command line tool written in <strong>Python 3</strong> to translate your subtitles for your series or movies.
+This is a command line tool written in <strong>Python 3</strong> to translate your subtitles for your series or movies and tested on Windows Platform.
 
 ###  Microsoft API 
 Before using this script, you need to have a Azure account and create a TextTranslation of cognitiveservices.

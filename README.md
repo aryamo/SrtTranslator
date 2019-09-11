@@ -12,7 +12,7 @@ please fill them in <b>Translator.py</b>.
 ### Dependencies
 This tool uses os, sys, requests, uuid and json , so you will need to install it in order to run the tool.
 
-<strong>Installing goslate is really easy, just run this:</strong>
+<strong>Installing packages is really easy, just run this:</strong>
 ```
 pip install requests, uuid, json, os
 ```

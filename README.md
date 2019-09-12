@@ -80,7 +80,7 @@ Some even know their customers better
 
 ```
 ### Known Issue
-When some character in the subtitles such as  <, <, * and @, = in the begining of a sentence. it will be caused an error.
+When some character in the subtitles such as  <, <, *, + and @, = in the begining of a sentence. it will be caused an error.
 ```
 145
 00:17:24,006 --> 00:17:26,009

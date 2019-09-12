@@ -93,11 +93,11 @@ That's going to be Option > Function.
 ...
 63
 00:02:44,003 --> 00:02:46,001
-Some of the differences betwee<strong> n</strong> 
+Some of the differences between
 
 64
 00:02:46,001 --> 00:02:48,001
-<strong> t</strong> hese permissions is pretty subtle.
+these permissions is pretty subtle.
 
 ```
 

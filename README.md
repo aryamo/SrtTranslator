@@ -100,7 +100,16 @@ Some of the differences between
 these permissions is pretty subtle.
 
 ```
-
+The following maybe ia a network issue, please try again.
+```
+Translating...
+Traceback (most recent call last):
+  File "main.py", line 79, in <module>
+    transTemp = subTranslator.Translate()
+  File "C:\Users\Vincent\Desktop\WorkFiles\Mytrans\Translator.py", line 72, in Translate
+    translatedSubs = str(response[0]['translations'][0]['text'])
+KeyError: 0
+```
 ### Available Languages
 Checkout <a href="https://docs.microsoft.com/zh-cn/azure/cognitive-services/Translator/language-support#translation">here</a> for more information.
 

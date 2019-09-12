@@ -89,6 +89,16 @@ That's going to be Option > Function.
 146
 00:17:26,009 --> 00:17:32,000
 =NOW, open close parens, and hit Enter.
+
+...
+63
+00:02:44,003 --> 00:02:46,001
+Some of the differences between
+
+64
+00:02:46,001 --> 00:02:48,001
+these permissions is pretty subtle.
+
 ```
 
 ### Available Languages
